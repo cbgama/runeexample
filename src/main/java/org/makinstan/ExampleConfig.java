@@ -1,4 +1,4 @@
-package com.example;
+package org.makinstan;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;

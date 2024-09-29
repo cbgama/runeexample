@@ -1,4 +1,4 @@
-package com.example;
+package org.makinstan;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
